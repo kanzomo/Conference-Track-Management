@@ -1,0 +1,4 @@
+Writing Fast Tests Against Enterprise Rails min
+Overdoing it in Python min
+Lua for the Masses min
+Ruby Errors from Mismatched Gem Versions min
