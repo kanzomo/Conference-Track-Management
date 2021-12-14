@@ -1,23 +1,20 @@
 package kanz.milan.conference_track_management;
 
 public class Talk {
-	private int lengthMinutes;
+	private int durationMinutes;
 	private	String title;
 	
-	public Talk(String title, int length) {
-		this.title = title.trim();
-		this.lengthMinutes = length;
+	public Talk(String title, int durationMinutes) {
+		this.title = title;
+		this.durationMinutes = durationMinutes;
 	}
 	
 	public int getLengthMinutes() {
-		return lengthMinutes;
+		return durationMinutes;
 	}
 	
 	public String getTitle() {
 		return title;
 	}
 	
-	public String toString() {
-		return title + " " + lengthMinutes + "min";
-	}
 }
