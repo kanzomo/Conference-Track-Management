@@ -12,7 +12,8 @@ To execute the jar type `java -jar [name-of-jar].jar [path-to-file]` into the co
 *note that [name-of-jar] and [path-to-file] need to be replaced by the actual values.* 
 
 With a default build location to Conference-Track-Management/target and the given Conference-Track-Management/assignment_input.txt this 
-might look something like this `java -jar conference-track-management-0.0.1-SNAPSHOT.jar ../assignment_input.txt`
+might look something like this:  
+`java -jar conference-track-management-0.0.1-SNAPSHOT.jar ../assignment_input.txt`
 
 ### Prompt 
 
