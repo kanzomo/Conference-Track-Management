@@ -6,7 +6,7 @@ To build the program the following is required:
 - Java version 8 or above
 - an up-to-date version of Maven (likely 3 or above)
 
-To build navigate to the directory of the pom.xml file (root directory) and type `mvn clean install` into the command line
+To build, navigate to the directory of the pom.xml file (root directory) and type `mvn clean install` into the command line
 
 To execute the jar type `java -jar [name-of-jar].jar [path-to-file]` into the command line  
 *note that [name-of-jar] and [path-to-file] need to be replaced by the actual values.* 
