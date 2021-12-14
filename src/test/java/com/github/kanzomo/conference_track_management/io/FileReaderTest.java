@@ -9,7 +9,6 @@ import java.util.List;
 import org.junit.jupiter.api.Test;
 
 import com.github.kanzomo.conference_track_management.Talk;
-import com.github.kanzomo.conference_track_management.io.FileReader;
 
 class FileReaderTest {
 	
