@@ -1,4 +1,4 @@
-package kanz.milan.conference_track_management.io;
+package com.github.kanzomo.conference_track_management.io;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
