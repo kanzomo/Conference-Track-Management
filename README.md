@@ -15,7 +15,7 @@ With a default build location to Conference-Track-Management/target and the give
 might look something like this:  
 `java -jar conference-track-management-0.0.1-SNAPSHOT.jar ../assignment_input.txt`
 
-### Prompt 
+## Prompt/Assignment
 
 You are planning a big programming conference and have received many
 proposals which have passed the initial screen process but you're having
@@ -87,7 +87,7 @@ acceptable; you don't need to exactly duplicate the sample output given here.
 > 04:00PM Rails for Python Developers lightning  
 > 05:00PM Networking Event  
 
-### Assumptions
+### Assumptions:
 
 1. the title and duration are always seperated by whitespace
 2. the duration is always at the end
