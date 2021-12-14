@@ -1,12 +1,12 @@
-package kanz.milan.conference_track_management.io;
+package com.github.kanzomo.conference_track_management.io;
 
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 import java.util.List;
 
-import kanz.milan.conference_track_management.Conference;
-import kanz.milan.conference_track_management.Event;
-import kanz.milan.conference_track_management.Track;
+import com.github.kanzomo.conference_track_management.Conference;
+import com.github.kanzomo.conference_track_management.Event;
+import com.github.kanzomo.conference_track_management.Track;
 
 public class Writer {
 	

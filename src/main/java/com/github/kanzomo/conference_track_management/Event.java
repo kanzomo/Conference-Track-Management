@@ -1,4 +1,4 @@
-package kanz.milan.conference_track_management;
+package com.github.kanzomo.conference_track_management;
 
 import java.time.LocalTime;
 

@@ -1,4 +1,4 @@
-package kanz.milan.conference_track_management.io;
+package com.github.kanzomo.conference_track_management.io;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import kanz.milan.conference_track_management.Talk;
+import com.github.kanzomo.conference_track_management.Talk;
 
 public class FileReader {
 	
