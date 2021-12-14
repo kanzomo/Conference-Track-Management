@@ -42,7 +42,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>kanz.milan.conference_track_management.Main</mainClass>
+							<mainClass>com.github.kanzomo.conference_track_management.Main</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
